@@ -1,0 +1,6 @@
+G:\Computer\Visual Studio Projects\GLI_Burrito\GLI_Burrito\bin\Debug\GLI_Burrito.exe.config
+G:\Computer\Visual Studio Projects\GLI_Burrito\GLI_Burrito\bin\Debug\GLI_Burrito.exe
+G:\Computer\Visual Studio Projects\GLI_Burrito\GLI_Burrito\bin\Debug\GLI_Burrito.pdb
+G:\Computer\Visual Studio Projects\GLI_Burrito\GLI_Burrito\obj\Debug\GLI_Burrito.csprojResolveAssemblyReference.cache
+G:\Computer\Visual Studio Projects\GLI_Burrito\GLI_Burrito\obj\Debug\GLI_Burrito.exe
+G:\Computer\Visual Studio Projects\GLI_Burrito\GLI_Burrito\obj\Debug\GLI_Burrito.pdb
